@@ -1,0 +1,6 @@
+name: Docker로 AWS EC2자동 배포
+on: 
+  push:
+    branches:
+      -main
+      
